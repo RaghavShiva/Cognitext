@@ -1,7 +1,7 @@
 
 # Textify
 <p align="center">
-<img src="https://github.com/RaghavShiva/Cognitext/blob/main/src/assets/textify_use.png?raw=true" alt="Textify"/>
+<img src="https://github.com/RaghavShiva/Cognitext/raw/main/src/assets/textify_use.png?raw=true" alt="Textify"/>
 
 <br/>
   <a href="https://textify-app.netlify.app/">View Deployed Website</a>
@@ -23,7 +23,7 @@ Also the website has a favicon icon to enhance its UI and increase its authentic
 
 1. Install *Node.js*
 2. Install *npm*
-3. Clone this github repo `https://github.com/Mitushi-23/Textify.git`.
+3. Clone this github repo `https://github.com/RaghavShiva/Cognitext.git`.
 4. Open the local project directory in a terminal, and run: `npm install`.
 
 ## To start the application locally
@@ -33,6 +33,7 @@ In the project directory, you can run: `npm start`
 ## Need help?
 
 Feel free to contact me on
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mitushi_agrawal_/) [![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/mitushi_agrawal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-green.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitushi-agrawal-bb75b0210/)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ragshiv04) [![X](https://img.shields.io/badge/X-follow-blue.svg?logo=x&logoColor=white
+)](https://x.com/raghav_shiva04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-green.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-raghav-96b94a255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---------
